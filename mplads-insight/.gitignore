@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+.env
+*.log
+*.sqlite*
+qa/
+
+
+.ruff_cache/
